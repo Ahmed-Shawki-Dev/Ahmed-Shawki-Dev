@@ -1,39 +1,36 @@
-<h1 align="center">Hi 👋, I'm Ahmed Shawki</h1>
-<h3 align="center">React Developer | Next.js & TypeScript</h3>
+<h1 align="center">Ahmed Shawki</h1>
+<h3 align="center">Full-Stack Software Engineer | Next.js & TypeScript</h3>
+<p align="center"> Engineering scalable B2B SaaS platforms with a focus on strict type-safety and clean architecture. Currently expanding backend architecture expertise into the C#/.NET ecosystem. </p>
 
-- 👨‍💻 All of my projects are available at [https://ahmedshawkidev.vercel.app/](https://ahmedshawkidev.vercel.app/)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/ahmedshawkidev/](https://www.linkedin.com/in/ahmedshawkidev/)
-
-- 📫 How to reach me **ahmedshawki.dev@gmail.com**
-
-- 📄 Know about my experiences [https://ahmedshawkidev.vercel.app/Ahmed-Shawki-CV.pdf](https://ahmedshawkidev.vercel.app/Ahmed-Shawki-CV.pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmedshawkidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedshawkidev" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+<div align="center">
+  <a href="https://linkedin.com/in/ahmedshawkidev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://ahmedshawkidev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:ahmedshawki.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://ahmedshawkidev.vercel.app/Ahmed-Shawki-CV.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-shawki-dev&show_icons=true&locale=en&layout=compact" alt="ahmed-shawki-dev" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-shawki-dev&show_icons=true&locale=en" alt="ahmed-shawki-dev" /></p>
+### 🚀 Production & Scale
+Instead of listing dozens of tutorials, I focus on building high-impact, production-ready systems:
 
+- **Eldaftar (Private B2B SaaS):** Architected an enterprise platform for educational operations handling **1,500+ active students**. Resolved massive concurrent API spikes (200K+ requests) by migrating to strict Next.js Server Actions and implementing aggressive edge caching.
+- **Medora:** Engineered a robust Clinic Management System featuring Role-Based Access Control (RBAC) and complex patient registration workflows with zero data leaks using Zod and Prisma.
+- 🏆 **Awards:** Secured **5th Place Globally** in the Software Category at the AZEX Exhibition (May 2026).
+
+### ⚙️ Edge Tech & Architecture
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript (Strict E2E)" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js (App Router)" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core" title="ASP.NET Core" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB Atlas" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="Prisma" title="Prisma ORM" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
+</div>
