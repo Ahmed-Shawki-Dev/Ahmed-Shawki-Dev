@@ -1,6 +1,6 @@
 <h1 align="center">Ahmed Shawki</h1>
-<h3 align="center">Full-Stack Software Engineer | Next.js & TypeScript</h3>
-<p align="center"> Engineering scalable B2B SaaS platforms with a focus on strict type-safety and clean architecture. Currently expanding backend architecture expertise into the C#/.NET ecosystem. </p>
+<h3 align="center">Full-Stack Software Engineer | Next.js</h3>
+<p align="center"> Software Engineer focused on building and launching SaaS products. I specialize in developing full-stack, multi-tenant applications using .NET and Next.js, with a strong focus on solving real business problems through scalable, commercially viable software.</p>
 
 <div align="center">
   <a href="https://linkedin.com/in/ahmedshawkidev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
