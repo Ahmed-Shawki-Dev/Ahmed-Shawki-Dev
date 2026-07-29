@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://ibb.co/vpwTMNx" alt="Ahmed Shawki Banner" width="100%" />
+</p>
 <h1 align="center">Ahmed Shawki</h1>
 <h3 align="center">Software Engineer | Full-Stack (.NET & Next.js)</h3>
 
