@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ibb.co/vpwTMNx" alt="Ahmed Shawki Banner" width="100%" />
+  <img src="https://i.ibb.co/Mr2tJzD/Black-Minimalist-Corporate-Business-Profile-Linked-In-Banner-1.png" alt="Ahmed Shawki Banner" width="100%" />
 </p>
 <h1 align="center">Ahmed Shawki</h1>
 <h3 align="center">Software Engineer | Full-Stack (.NET & Next.js)</h3>
